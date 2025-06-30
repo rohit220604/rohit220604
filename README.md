@@ -2,9 +2,9 @@
 
 I'm **Rohit Jaliminchi**, a passionate developer and security enthusiast, currently pursuing B.Tech in Electronics and Communication Engineering at IIITDM Jabalpur.
 
-🔒 Bug bounty hunter & cybersecurity explorer  
 💻 Full-stack developer (React, Node.js, FastAPI, TypeScript)  
 📊 Data visualizer | 🧪 Tinkerer | 🚀 Lifelong learner  
+🔒 Bug bounty hunter & cybersecurity explorer  
 
 ### 🔧 Notable Projects
 - 🔐 **USB P** – A self-destructing, tamper-proof pendrive focused on privacy and security
