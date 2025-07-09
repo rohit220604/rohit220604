@@ -10,7 +10,7 @@ I'm **Rohit Jaliminchi**, a passionate developer and security enthusiast, curren
 - 🔐 **USB 3P** – A self-destructing, tamper-proof pendrive focused on privacy and security
 - 🎬 **CineApp** – A movie app using TMDB to let users discover, save, mark as watched, and review films
 - 🔗 **LinkMe** – A full-stack app to create and share Linktree-like profiles with JWT/Google auth and PDF export
-- 📊 **MakeMyGraph** – A web app that turns Excel uploads into clean, insightful visualizations
+- 😴 **Drowsiness Detection** – A real-time vision + Arduino system that detects driver drowsiness and triggers safety alerts
 - 🧶 **Smart Knitting Needle** – Combines IoT with knitting to assist users in real-time tracking
 
 
