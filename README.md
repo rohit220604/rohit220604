@@ -2,9 +2,11 @@
 
 I'm **Rohit Jaliminchi**, a passionate developer and security enthusiast, currently pursuing B.Tech in Electronics and Communication Engineering at IIITDM Jabalpur.
 
-💻 Full-stack developer (React, Node.js, FastAPI, TypeScript)  
+💻 Full-stack developer (React, Node.js, Rest API, Apollo GraphQL, MongoDB)  
 📊 Data visualizer | 🧪 Tinkerer | 🚀 Lifelong learner  
 🔒 Bug bounty hunter & cybersecurity explorer  
+🤝 Always open to new challenges and collaborations!
+
 
 ### 🔧 Notable Projects
 - 🔐 **USB 3P** – A self-destructing, tamper-proof pendrive focused on privacy and security
